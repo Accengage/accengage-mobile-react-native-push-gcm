@@ -1,5 +1,5 @@
 {
-  "name": "react-native-acc-push-gcm",
+  "name": "react-native-acc-gcm",
   "version": "1.0.0",
   "description": "Accengage GCM plugin pour react-native-acc module",
   "main": "index.js",
